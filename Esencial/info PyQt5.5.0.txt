@@ -1,0 +1,17 @@
+Qt53DCore.dll -> C:\Python34\Lib\site-packages\PyQt5
+Qt53DInput.dll -> C:\Python34\Lib\site-packages\PyQt5
+Qt53DQuick.dll -> C:\Python34\Lib\site-packages\PyQt5
+Qt53DQuickRenderer.dll -> C:\Python34\Lib\site-packages\PyQt5
+Qt53DRenderer.dll -> C:\Python34\Lib\site-packages\PyQt5
+
+
+"PyQt5 5.5.0"
+
+
+
+
+msvcrt.dll -> C:\Windows\System32\
+msvcp100.dll -> C:\Windows\System32\
+msvcp120.dll -> C:\Windows\System32\
+msvcr100.dll -> C:\Windows\System32\
+msvcr120.dll -> C:\Windows\System32\
